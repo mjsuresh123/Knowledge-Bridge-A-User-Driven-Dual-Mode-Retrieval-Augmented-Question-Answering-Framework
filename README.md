@@ -1,0 +1,2 @@
+# Knowledge-Bridge-A-User-Driven-Dual-Mode-Retrieval-Augmented-Question-Answering-Framework
+Knowledge Bridge is a dual-mode retrieval-augmented QA system that combines semantic and keyword search to deliver accurate, context-aware answers. It uses community-driven data and language models to generate reliable responses, improving local knowledge access and supporting efficient, scalable information retrieval.
